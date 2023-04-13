@@ -1,0 +1,15 @@
+C:\Users\Юля\Desktop\ДЭЭЭЭ\пизда\дэнахууй\дэнахууй\bin\Debug\дэнахууй.exe.config
+C:\Users\Юля\Desktop\ДЭЭЭЭ\пизда\дэнахууй\дэнахууй\bin\Debug\дэнахууй.exe
+C:\Users\Юля\Desktop\ДЭЭЭЭ\пизда\дэнахууй\дэнахууй\bin\Debug\дэнахууй.pdb
+C:\Users\Юля\Desktop\ДЭЭЭЭ\пизда\дэнахууй\дэнахууй\bin\Debug\EntityFramework.dll
+C:\Users\Юля\Desktop\ДЭЭЭЭ\пизда\дэнахууй\дэнахууй\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Юля\Desktop\ДЭЭЭЭ\пизда\дэнахууй\дэнахууй\bin\Debug\EntityFramework.xml
+C:\Users\Юля\Desktop\ДЭЭЭЭ\пизда\дэнахууй\дэнахууй\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Юля\Desktop\ДЭЭЭЭ\пизда\дэнахууй\дэнахууй\obj\Debug\дэнахууй.csprojAssemblyReference.cache
+C:\Users\Юля\Desktop\ДЭЭЭЭ\пизда\дэнахууй\дэнахууй\obj\Debug\дэнахууй.Form1.resources
+C:\Users\Юля\Desktop\ДЭЭЭЭ\пизда\дэнахууй\дэнахууй\obj\Debug\дэнахууй.Properties.Resources.resources
+C:\Users\Юля\Desktop\ДЭЭЭЭ\пизда\дэнахууй\дэнахууй\obj\Debug\дэнахууй.csproj.GenerateResource.cache
+C:\Users\Юля\Desktop\ДЭЭЭЭ\пизда\дэнахууй\дэнахууй\obj\Debug\дэнахууй.csproj.CoreCompileInputs.cache
+C:\Users\Юля\Desktop\ДЭЭЭЭ\пизда\дэнахууй\дэнахууй\obj\Debug\дэнахууй.csproj.CopyComplete
+C:\Users\Юля\Desktop\ДЭЭЭЭ\пизда\дэнахууй\дэнахууй\obj\Debug\дэнахууй.exe
+C:\Users\Юля\Desktop\ДЭЭЭЭ\пизда\дэнахууй\дэнахууй\obj\Debug\дэнахууй.pdb
